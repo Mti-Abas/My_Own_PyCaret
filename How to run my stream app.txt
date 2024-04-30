@@ -1,0 +1,1 @@
+run this code by open it on VS Code and Right-Click on it and select "open in integrated terminal " and run this command "streamlit run streamlit_ml_app.py and the web app will open . it is easy to use just enter your data file Path and the target column .
