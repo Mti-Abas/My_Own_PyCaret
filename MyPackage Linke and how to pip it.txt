@@ -1,0 +1,7 @@
+linke: 
+
+https://test.pypi.org/project/abas-ml-lib/
+
+pip code :
+
+pip install -i https://test.pypi.org/simple/ abas-ml-lib
